@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8d72e4f8bc96454198103393461eafc, type: 3}
+  m_Name: Story_ForthLine
+  m_EditorClassIdentifier: 
+  StoryName: The Adventurer
+  Plot: 'Whatever
+
+    .
+
+    .
+
+    Do you think we will ever find them, Dad?'
+  NextSentence: {fileID: 11400000, guid: 8245cc0ccf43ae249866cfc83c6bab2a, type: 2}
+  IsLastSentence: 0
